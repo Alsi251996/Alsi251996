@@ -1,7 +1,8 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fweb-development-banner-icon-business-website-1812243436&psig=AOvVaw32qa1D0TI_qwFL1O7R5PAR&ust=1724094509296000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDZ_dme_4cDFQAAAAAdAAAAABAE)
-
+![logo](https://st.depositphotos.com/2850905/57391/v/1600/depositphotos_573918532-stock-illustration-cartoon-hand-looking-developer-using.jpg)
 <h1 align="center">Hi 👋, I'm Anushka Alsi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align= "right" alt="Coding" width= "400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=626&ext=jpg">
 
 - 🔭 I’m currently working in **FTV Salon**
 
@@ -23,7 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsi251996&show_icons=true&locale=en" alt="alsi251996" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsi251996&" alt="alsi251996" /></p>
-
-
-
 
